@@ -6,8 +6,6 @@ import com.dorohovich.testtask.textmodifier.step.ModifyingStep;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * Created by Andrei_Darakhovich on 5/16/2017.
